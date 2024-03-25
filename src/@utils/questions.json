@@ -1,0 +1,587 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What mainly favored rifle is used by the Terrorists in Counter Strike: Global Offensive?",
+            "correct_answer": "AK-47",
+            "incorrect_answers": [
+                "AK-74",
+                "M4A4",
+                "CZ-75 AUTO"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Vehicles",
+            "question": "Which one of the following is not made by Ford?",
+            "correct_answer": "Camry",
+            "incorrect_answers": [
+                "Fusion",
+                "Model A",
+                "F-150"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "Abolitionist John Brown raided the arsenal in which Virginia Town?",
+            "correct_answer": "Harper&#039;s Ferry",
+            "incorrect_answers": [
+                "Richmond",
+                "Harrisonburg",
+                "Martinsburg"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "How many times was Albert Einstein married in his lifetime?",
+            "correct_answer": "Twice",
+            "incorrect_answers": [
+                "Five",
+                "Thrice",
+                "Once"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "Who is the horror manga artist who made Uzumaki?",
+            "correct_answer": "Junji Ito",
+            "incorrect_answers": [
+                "Kazuo Umezu",
+                "Shintaro Kago",
+                "Sui Ishida"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "What was Ash Ketchum&#039;s second Pokemon?",
+            "correct_answer": "Caterpie",
+            "incorrect_answers": [
+                "Charmander",
+                "Pikachu",
+                "Pidgey"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these is NOT a main playable character in &quot;Grand Theft Auto V&quot;?",
+            "correct_answer": "Lamar",
+            "incorrect_answers": [
+                "Trevor",
+                "Michael",
+                "Franklin"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "The most frequent subconscious activity repeated by the human body is blinking.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "Why was The Green Monster at Fenway Park was originally built?",
+            "correct_answer": "To prevent viewing games from outside the park.",
+            "incorrect_answers": [
+                "To make getting home runs harder.",
+                "To display advertisements.",
+                "To provide extra seating."
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "How many games in the Crash Bandicoot series were released on the original Playstation?",
+            "correct_answer": "5",
+            "incorrect_answers": [
+                "4",
+                "3",
+                "6"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Mathematics",
+            "question": "What is the correct order of operations for solving equations?",
+            "correct_answer": "Parentheses, Exponents, Multiplication, Division, Addition, Subtraction",
+            "incorrect_answers": [
+                "Addition, Multiplication, Division, Subtraction, Addition, Parentheses",
+                "Parentheses, Exponents, Addition, Substraction, Multiplication, Division",
+                "The order in which the operations are written."
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What was Frank West&#039;s job in &quot;Dead Rising&quot;?",
+            "correct_answer": "Photojournalist",
+            "incorrect_answers": [
+                "Janitor",
+                "Chef",
+                "Taxi Driver"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "What is the number of keys on a standard Windows Keyboard?",
+            "correct_answer": "104",
+            "incorrect_answers": [
+                "64",
+                "94",
+                "76"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Film",
+            "question": "In the &quot;Jurassic Park&quot; universe, when did &quot;Jurassic Park: San Diego&quot; begin construction?",
+            "correct_answer": "1985",
+            "incorrect_answers": [
+                "1988",
+                "1986",
+                "1993"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Computers",
+            "question": "The programming language &#039;Swift&#039; was created to replace what other programming language?",
+            "correct_answer": "Objective-C",
+            "incorrect_answers": [
+                "C#",
+                "Ruby",
+                "C++"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In the Lego Island trilogy, who taught Pepper Roni how to read?",
+            "correct_answer": "Officer Laura Brick",
+            "incorrect_answers": [
+                "Papa Brickolini",
+                "Officer Nick Brick",
+                "Mama Brickolini"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "How many protons are in an oxygen atom?",
+            "correct_answer": "Eight",
+            "incorrect_answers": [
+                "Four",
+                "Two",
+                "Six"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "Centripedal force is an apparent force that acts outward on a body moving around a center, arising from the body&#039;s inertia.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "The fourth funnel of the RMS Titanic was fake designed to make the ship look more powerful and symmetrical.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What are tiny Thwomps called in Super Mario World?",
+            "correct_answer": "Thwimps",
+            "incorrect_answers": [
+                "Little Thwomp",
+                "Mini Thwomp",
+                "Tiny Tims"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Pistons were added to Minecraft in Beta 1.5.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Amazon acquired Twitch in August 2014 for $970 million dollars.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Celebrities",
+            "question": "Neil Hamburger is played by which comedian?",
+            "correct_answer": "Gregg Turkington",
+            "incorrect_answers": [
+                "Nathan Fielder",
+                "Tim Heidecker",
+                "Todd Glass"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "What year did Australia become a federation?",
+            "correct_answer": "1901",
+            "incorrect_answers": [
+                "1910",
+                "1899",
+                "1911"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "What alcoholic drink is made from molasses?",
+            "correct_answer": "Rum",
+            "incorrect_answers": [
+                "Gin",
+                "Vodka",
+                "Whisky"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Where does the Mac part of the name Fleetwood Mac come from?",
+            "correct_answer": "John McVie",
+            "incorrect_answers": [
+                "Christine McVie",
+                "Mac McAnally",
+                "David Tennant"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Sports",
+            "question": "Who won the premier league title in the 2015-2016 season following a fairy tale run?",
+            "correct_answer": "Leicester City",
+            "incorrect_answers": [
+                "Tottenham Hotspur",
+                "Watford",
+                "Stoke City"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Film",
+            "question": "What is the name of the assassin in the first &quot;Hellboy&quot; movie?",
+            "correct_answer": "Karl Ruprecht Kroenen",
+            "incorrect_answers": [
+                "Klaus Werner von Krupt",
+                "Grigori Efimovich Rasputin",
+                "Ilsa Haupstein"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What is the name of the final boss in Turok: Dinosaur Hunter?",
+            "correct_answer": "The Campaigner",
+            "incorrect_answers": [
+                "The Primagen",
+                "Oblivion",
+                "Lord Tyrannus"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "What was the name of the rock band that Nobuo Uematsu formed that played songs from various Final Fantasy games?",
+            "correct_answer": "The Black Mages",
+            "incorrect_answers": [
+                "The Final Fantasies",
+                "The Espers",
+                "The Rock Summoners"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "During development of &quot;Super Mario World&quot;, Yoshi&#039;s hard saddle was originally which of these?",
+            "correct_answer": "A shell",
+            "incorrect_answers": [
+                "A slide of Gelatin",
+                "A poffin",
+                "A spike"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Television",
+            "question": "Which actor from The Young Ones also played Lord Flashheart in one episode of Blackadder II?",
+            "correct_answer": "Rik Mayall",
+            "incorrect_answers": [
+                "Adrian Edmondson",
+                "Nigel Planer",
+                "Christopher Ryan"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "What is the largest Muslim country in the world?",
+            "correct_answer": "Indonesia",
+            "incorrect_answers": [
+                "Pakistan",
+                "Saudi Arabia",
+                "Iran"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Science: Computers",
+            "question": "The T-Mobile Sidekick smartphone is a re-branded version of the Danger Hiptop.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Sports",
+            "question": "What is the full name of the footballer &quot;Cristiano Ronaldo&quot;?",
+            "correct_answer": "Cristiano Ronaldo dos Santos Aveiro",
+            "incorrect_answers": [
+                "Cristiano Ronaldo los Santos Diego",
+                "Cristiano Armando Diego Ronaldo",
+                "Cristiano Luis Armando Ronaldo"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "The two largest ethnic groups of Belgium are Flemish and Walloon. ",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "&quot;27 Club&quot; is a term used to refer to a list of famous actors, musicians, and artists who died at the age of 27.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "Which of these is NOT a Disney cartoon character?",
+            "correct_answer": "Daffy Duck",
+            "incorrect_answers": [
+                "Donald Duck",
+                "Daisy Duck",
+                "Scrooge McDuck"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "In the 1992 film &quot;Army of Darkness&quot;, what name does Ash give to his double-barreled shotgun?",
+            "correct_answer": "Boomstick",
+            "incorrect_answers": [
+                "Bloomstick",
+                "Blastbranch",
+                "2-Pump Chump"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "Which Formula One driver was nicknamed &#039;The Professor&#039;?",
+            "correct_answer": "Alain Prost",
+            "incorrect_answers": [
+                "Ayrton Senna",
+                "Niki Lauda",
+                "Emerson Fittipaldi"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "The Tsar Bomba, the most powerful nuclear bomb ever tested, had a yield of 50 megatons but theoretically had a maximum yield of how much?",
+            "correct_answer": "100 Megatons",
+            "incorrect_answers": [
+                "200 Megatons",
+                "75 Megatons",
+                "150 Megatons"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "Who is the founder of &quot;The Lego Group&quot;?",
+            "correct_answer": "Ole Kirk Christiansen",
+            "incorrect_answers": [
+                " Jens Niels Christiansen",
+                "Kirstine Christiansen",
+                " Gerhardt Kirk Christiansen"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Which of the following languages does NOT use the Latin alphabet?",
+            "correct_answer": "Georgian",
+            "incorrect_answers": [
+                "Turkish",
+                "Swahili",
+                "Vietnamese"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "What is isobutylphenylpropanoic acid more commonly known as?",
+            "correct_answer": "Ibuprofen",
+            "incorrect_answers": [
+                "Morphine",
+                "Ketamine",
+                "Aspirin"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "What is the name for the auditory illusion of a note that seems to be rising infinitely?",
+            "correct_answer": "Shepard Tone",
+            "incorrect_answers": [
+                "Glissandro Illusion",
+                "Fransen Effect",
+                "McGurck Effect"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "The first dual-core CPU was the Intel Pentium D.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "This movie contains the quote, &quot;I love the smell of napalm in the morning!&quot;",
+            "correct_answer": "Apocalypse Now",
+            "incorrect_answers": [
+                "Platoon",
+                "The Deer Hunter",
+                "Full Metal Jacket"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Which of the following games in the The Legend of Zelda franchise was released in Japan before North America?",
+            "correct_answer": "The Legend of Zelda: The Minish Cap",
+            "incorrect_answers": [
+                "The Legend of Zelda: Twilight Princess",
+                "The Legend of Zelda: Spirit Tracks",
+                "The Legend of Zelda: Four Swords"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "Which programming language was developed by Sun Microsystems in 1995?",
+            "correct_answer": "Java",
+            "incorrect_answers": [
+                "Python",
+                "Solaris OS",
+                "C++"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Which ocean borders the west coast of the United States?",
+            "correct_answer": "Pacific",
+            "incorrect_answers": [
+                "Atlantic",
+                "Indian",
+                "Arctic"
+            ]
+        }
+    ]
+}
